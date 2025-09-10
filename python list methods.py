@@ -1,0 +1,9 @@
+a=[1,2,3,4,1]
+b=a.copy()
+print(b)
+print(a.count(1))
+print(a.index(3))
+c=[1,2,3,4]
+print(c.reverse())
+d=[5,4,3,2,7,1]
+print(a.sort())
