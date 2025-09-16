@@ -1,0 +1,10 @@
+x=int(input("enter a number:"))
+y=int(input("enter a number:"))
+sum=x+y
+sub=x-y
+mul=x*y
+div=x/y
+print("sum =",sum)
+print("sub =",sub)
+print("mul =",mul)
+print("div =",div)
